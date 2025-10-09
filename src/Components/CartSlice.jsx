@@ -12,6 +12,6 @@ const CartSlice = createSlice({
         clearCart(state){},
         increaseItemQuantity(state,action){},
         decreaseItemQuantity(state,action){},
-});
+    });
 
 
